@@ -27,6 +27,71 @@
       "logoURI": "/img/unknown.svg",
       "symbol": "wALGO",
       "name": "Wrapped milkALGO"
+    },
+             
+    {
+      "address": "0x522B61755b5FF8176B2931DA7bF1a5F9414Eb710",
+      "chainId": 2002,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
+    {
+      "address": "0x2421db204968A367CC2C866CD057fA754Cb84EdF",
+      "chainId": 2002,
+      "decimals": 6,
+      "logoURI": "https://brightside-bucket.s3.eu-central-1.amazonaws.com/USD_Coin_icon-2.png",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    {
+      "address": "0x150d2421E09eEa31beaa68b7a248700EEcEda87a",
+      "chainId": 2002,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI"
+    },
+    {
+      "address": "0x592786E04c47844Aa3B343b19eF2f50A255a477F",
+      "chainId": 2002,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
+      "name": "Wrapped Ether",
+      "symbol": "WETH"
+    },
+    {
+      "address": "0x22d23e80193D7a77EF6177a2D0c79Af0F4A68790",
+      "chainId": 2002,
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC"
+    },
+    {
+      "address": "0xbc0990862515F95e01D16C2C1Afd1104c279D48d",
+      "chainId": 2002,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+      "name": "Binance Smart Chain",
+      "symbol": "BNB"
+    },
+    {
+      "address": "0x8Dc0Dfa2AeC0d4410c8C60c5f9cD0CD37b05a06a",
+      "chainId": 2002,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png",
+      "name": "Binance USD",
+      "symbol": "BUSD"
+    },
+    {
+      "address": "0x20fEbcF2Eb5d59B90AacC03b5afcA3843A57b3Ad",
+      "chainId": 2002,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
+      "name": "Polygon",
+      "symbol": "MATIC"
     }
   ]
 }
