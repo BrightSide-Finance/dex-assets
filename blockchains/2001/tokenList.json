@@ -1,0 +1,32 @@
+{
+  "name": "Brightside Mainnet",
+  "timestamp": "2022-03-16T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "brightside",
+    "default",
+    "list"
+  ],
+  "logoURI": "",
+  "tokens": [{
+      "address": "0xe41a2F43FfE8ec4b2FAa5921a01E4fC0c45EE942",
+      "chainId": 2002,
+      "decimals": 18,
+      "logoURI": "/img/tokens/bright.svg",
+      "symbol": "BRIGHT",
+      "name": "Brightside Finance"
+    },
+    {
+      "address": "0xaF86E6c5Fd9dAf53e5100ed38BaB2572609fCA27",
+      "chainId": 2002,
+      "decimals": 18,
+      "logoURI": "/img/unknown.svg",
+      "symbol": "wALGO",
+      "name": "Wrapped milkALGO"
+    }
+  ]
+}
