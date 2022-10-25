@@ -41,7 +41,7 @@
       "address": "0xd645fc6ac3757d2c7aa54dc4bbdebf87ff3cde3f",
       "chainId": 2002,
       "decimals": 6,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19600.png",
+      "logoURI": "https://brightside-bucket.s3.eu-central-1.amazonaws.com/Algo_v2.svg",
       "name": "AlgoDAO",
       "symbol": "ADAO"
     },
