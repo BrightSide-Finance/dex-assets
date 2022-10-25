@@ -16,6 +16,14 @@
       "address": "0xe41a2F43FfE8ec4b2FAa5921a01E4fC0c45EE942",
       "chainId": 2002,
       "decimals": 18,
+      "logoURI": "/img/tokens/unknown.svg",
+      "symbol": "fakeBRIGHT",
+      "name": "This is NOT Brightside Finance Token"
+    },
+    {
+      "address": "0x527ad3227063617302d4d76902Df5D96756e1603",
+      "chainId": 2002,
+      "decimals": 6,
       "logoURI": "/img/tokens/bright.svg",
       "symbol": "BRIGHT",
       "name": "Brightside Finance"
@@ -30,7 +38,87 @@
     },
              
     {
-      "address": "0x522B61755b5FF8176B2931DA7bF1a5F9414Eb710",
+      "address": "0xd645fc6ac3757d2c7aa54dc4bbdebf87ff3cde3f",
+      "chainId": 2002,
+      "decimals": 6,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19600.png",
+      "name": "AlgoDAO",
+      "symbol": "ADAO"
+    },
+    {
+      "address": "0xebe505b49f458c6273c7768972d7c7dee840ff73",
+      "chainId": 2002,
+      "decimals": 6,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18077.png",
+      "name": "Defly Token",
+      "symbol": "DEFLY"
+    },
+    {
+      "address": "0x987c6054a745a95fe93047e2495584a72fcdcb9d",
+      "chainId": 2002,
+      "decimals": 6,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10820.png",
+      "name": "Yieldly Finance",
+      "symbol": "YLDY"
+    },
+    {
+      "address": "0xad0ce1898c9ee566a501ed37dadbac04d68c2c93",
+      "chainId": 2002,
+      "decimals": 10,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10409.png",
+      "name": "Opulous",
+      "symbol": "OPUL"
+    },
+    {
+      "address": "0xcadf2ffd6d4ffda791bf369cc750b5a52207026e",
+      "chainId": 2002,
+      "decimals": 9,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11941.png",
+      "name": "Xfinite Entertainment Token",
+      "symbol": "XET"
+    },
+    {
+      "address": "0xa516011ceee9942be55bcee816922467f898f365",
+      "chainId": 2002,
+      "decimals": 6,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11861.png",
+      "name": "PlanetWatch",
+      "symbol": "PLANETS"
+    },
+    {
+      "address": "0xe2dbf4a7d95bd2ec2f4b0a694c5e8f24b34ac6d8",
+      "chainId": 2002,
+      "decimals": 6,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19349.png",
+      "name": "Algomint",
+      "symbol": "goMINT"
+    },
+    {
+      "address": "0x425e7eef87e5401d6e0399a0d38b7593b4b2b7de",
+      "chainId": 2002,
+      "decimals": 6,
+      "logoURI": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/stbl.webp",
+      "name": "Algofi Stablecoin",
+      "symbol": "STBL2"
+    },
+    {
+      "address": "0x88168f58f783a23c163fd111dfe69e69ba2947b4",
+      "chainId": 2002,
+      "decimals": 8,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21316.png",
+      "name": "Algomint ETH",
+      "symbol": "goETH"
+    },
+    {
+      "address": "0x36dbbc895b665b6ad1c6fad28ff012afaeb54e4c",
+      "chainId": 2002,
+      "decimals": 8,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21305.png",
+      "name": "Algomint BTC",
+      "symbol": "goBTC"
+    },
+    {
+      "address": "0x32564ae38e5dbf316958ce25a6ad2a2249ebcc2d",
       "chainId": 2002,
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png",
@@ -38,60 +126,126 @@
       "symbol": "USDT"
     },
     {
-      "address": "0x2421db204968A367CC2C866CD057fA754Cb84EdF",
+      "address": "0xbc31960a049fe10297ed8432fb61dd734fead4ea",
       "chainId": 2002,
       "decimals": 6,
       "logoURI": "https://brightside-bucket.s3.eu-central-1.amazonaws.com/USD_Coin_icon-2.png",
       "name": "USD Coin",
       "symbol": "USDC"
     },
+             
+    {
+      "address": "0x522B61755b5FF8176B2931DA7bF1a5F9414Eb710",
+      "chainId": 2002,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png",
+      "name": "Tether USD by Celer",
+      "symbol": "ceUSDT"
+    },
+    {
+      "address": "0x2421db204968A367CC2C866CD057fA754Cb84EdF",
+      "chainId": 2002,
+      "decimals": 6,
+      "logoURI": "https://brightside-bucket.s3.eu-central-1.amazonaws.com/USD_Coin_icon-2.png",
+      "name": "USD Coin by Celer",
+      "symbol": "ceUSDC"
+    },
     {
       "address": "0x150d2421E09eEa31beaa68b7a248700EEcEda87a",
       "chainId": 2002,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png",
-      "name": "Dai Stablecoin",
-      "symbol": "DAI"
+      "name": "DAI Stablecoin by Celer",
+      "symbol": "ceDAI"
     },
     {
       "address": "0x592786E04c47844Aa3B343b19eF2f50A255a477F",
       "chainId": 2002,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
-      "name": "Wrapped Ether",
-      "symbol": "WETH"
+      "name": "Wrapped Ether by Celer",
+      "symbol": "ceWETH"
     },
     {
       "address": "0x22d23e80193D7a77EF6177a2D0c79Af0F4A68790",
       "chainId": 2002,
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC"
+      "name": "Wrapped BTC by Celer",
+      "symbol": "ceWBTC"
     },
     {
       "address": "0xbc0990862515F95e01D16C2C1Afd1104c279D48d",
       "chainId": 2002,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
-      "name": "Binance Smart Chain",
-      "symbol": "BNB"
+      "name": "Binance Smart Chain by Celer",
+      "symbol": "ceBNB"
     },
     {
       "address": "0x8Dc0Dfa2AeC0d4410c8C60c5f9cD0CD37b05a06a",
       "chainId": 2002,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png",
-      "name": "Binance USD",
-      "symbol": "BUSD"
+      "name": "Binance USD by Celer",
+      "symbol": "ceBUSD"
     },
     {
       "address": "0x20fEbcF2Eb5d59B90AacC03b5afcA3843A57b3Ad",
       "chainId": 2002,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
-      "name": "Polygon",
-      "symbol": "MATIC"
-    }
+      "name": "Polygon by Celer",
+      "symbol": "ceMATIC"
+    },
+    {
+      "address": "0x353b7134A88085129Cbde051f04b0edB03A3b83b",
+      "chainId": 2002,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png",
+      "name": "Fantom by Celer",
+      "symbol": "ceFTM"
+    },
+             
+    {
+      "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+      "chainId": 2002,
+      "decimals": 6,
+      "logoURI": "https://brightside-bucket.s3.eu-central-1.amazonaws.com/USD_Coin_icon-2.png",
+      "name": "UDC Coin by Multichain",
+      "symbol": "mUSDC"
+    },
+    {
+      "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
+      "chainId": 2002,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png",
+      "name": "Tether USD by Multichain",
+      "symbol": "mUSDT"
+    },
+    {
+      "address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
+      "chainId": 2002,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png",
+      "name": "DAI Stablecoin by Multichain",
+      "symbol": "mDAI"
+    },
+    {
+      "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
+      "chainId": 2002,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
+      "name": "Wrapped Ethereum by Multichain",
+      "symbol": "mWETH"
+    },
+    {
+      "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
+      "chainId": 2002,
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png",
+      "name": "Wrapped Bitcoin by Multichain",
+      "symbol": "mWBTC"
+    },
   ]
 }
