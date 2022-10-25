@@ -32,7 +32,7 @@
       "address": "0xaF86E6c5Fd9dAf53e5100ed38BaB2572609fCA27",
       "chainId": 2002,
       "decimals": 18,
-      "logoURI": "/img/algo.png",
+      "logoURI": "/img/tokens/algo.png",
       "symbol": "wALGO",
       "name": "Wrapped milkALGO"
     },
