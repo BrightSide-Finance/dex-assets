@@ -13,14 +13,6 @@
   ],
   "logoURI": "",
   "tokens": [{
-      "address": "0xe41a2F43FfE8ec4b2FAa5921a01E4fC0c45EE942",
-      "chainId": 2002,
-      "decimals": 18,
-      "logoURI": "/img/tokens/unknown.svg",
-      "symbol": "fakeBRIGHT",
-      "name": "This is NOT Brightside Finance Token"
-    },
-    {
       "address": "0x527ad3227063617302d4d76902Df5D96756e1603",
       "chainId": 2002,
       "decimals": 6,
