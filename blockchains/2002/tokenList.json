@@ -94,6 +94,14 @@
       "symbol": "goMINT"
     },
     {
+      "address": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
+      "chainId": 2002,
+      "decimals": 18,
+      "logoURI": "https://img.api.cryptorank.io/coins/60x60.blueshift1649250909197.png",
+      "name": "Blueshift",
+      "symbol": "BLUES"
+    },
+    {
       "address": "0x425e7eef87e5401d6e0399a0d38b7593b4b2b7de",
       "chainId": 2002,
       "decimals": 6,
