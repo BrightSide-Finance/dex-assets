@@ -1,0 +1,69 @@
+{
+  "name": "Brightside Testnet",
+  "timestamp": "2021-12-15T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": ["birghtside", "default", "list"],
+  "logoURI": "",
+  "tokens": [
+    {
+      "chainId": 200202,
+      "address": "0x39aF5C7F3bd3a355e4F41f5b33dCEBD1681e4D3e",
+      "name": "Wrapped milkALGO",
+      "symbol": "wALGO",
+      "decimals": 18,
+      "logoURI": "https://brightside-bucket.s3.eu-central-1.amazonaws.com/algo.png"
+    },
+    {
+      "chainId": 200202,
+      "address": "0x8dE4eE6F71A3F0AEDBa40488059d7cE1D351504c",
+      "name": "Brightside Finance",
+      "symbol": "BRIGHT",
+      "decimals": 18,
+      "logoURI": "https://brightside-bucket.s3.eu-central-1.amazonaws.com/bright.svg"
+    },
+    {
+      "chainId": 200202,
+      "address": "0x0962a078eda5db5449cab34d934f3f56a2029369",
+      "name": "Doom test token",
+      "symbol": "DOOM",
+      "decimals": 18,
+      "logoURI": "https://brightside-bucket.s3.eu-central-1.amazonaws.com/test_doom.svg"
+    },
+    {
+      "chainId": 200202,
+      "address": "0x781e85a511bf1acb9d4b454aa6e87287dbcd30cb",
+      "name": "Life test token",
+      "symbol": "LIFE",
+      "decimals": 18,
+      "logoURI": "https://brightside-bucket.s3.eu-central-1.amazonaws.com/test_life.svg"
+    },
+    {
+      "chainId": 200202,
+      "address": "0xbd58de44f0c656da548aebefe0b8b2f6380f203e",
+      "name": "Sad pepe...",
+      "symbol": "PEPE",
+      "decimals": 6,
+      "logoURI": "https://brightside-bucket.s3.eu-central-1.amazonaws.com/test_pepe.svg"
+    },
+    {
+      "chainId": 200202,
+      "address": "0xe8c13158e04ec839ca8eb2c5489be457807fa89e",
+      "name": "Fake Tether",
+      "symbol": "USDT",
+      "decimals": 2,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+    },
+    {
+      "chainId": 200202,
+      "address": "0xce73343d4ae72dd140f38f37df265158d009c847",
+      "name": "Ape test token",
+      "symbol": "APE",
+      "decimals": 0,
+      "logoURI": "https://brightside-bucket.s3.eu-central-1.amazonaws.com/test_ape.svg"
+    }
+  ]
+}
