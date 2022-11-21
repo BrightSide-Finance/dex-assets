@@ -16,7 +16,7 @@
       "address": "0x527ad3227063617302d4d76902Df5D96756e1603",
       "chainId": 2002,
       "decimals": 6,
-      "logoURI": "/img/tokens/bright.svg",
+      "logoURI": "https://brightside-bucket.s3.eu-central-1.amazonaws.com/bright.svg",
       "symbol": "BRIGHT",
       "name": "Brightside Finance"
     },
@@ -24,7 +24,7 @@
       "address": "0xaF86E6c5Fd9dAf53e5100ed38BaB2572609fCA27",
       "chainId": 2002,
       "decimals": 18,
-      "logoURI": "/img/tokens/algo.png",
+      "logoURI": "https://brightside-bucket.s3.eu-central-1.amazonaws.com/algo.png",
       "symbol": "wALGO",
       "name": "Wrapped milkALGO"
     },
